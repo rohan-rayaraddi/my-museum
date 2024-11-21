@@ -5,11 +5,11 @@ entries:
       challenge: nuhelm3
       internal: "true"
     apiVersion: v2
-    created: "2024-11-21T09:52:05.078678716Z"
+    created: "2024-11-21T10:06:57.128282838Z"
     description: A simple chart for deploying a pod that curls a secret
-    digest: 7f8cc64961c5e2d3faa04ee9a4a8ec79c8e4835173699d71c93cd0ea59705c73
+    digest: 8e148dbde04a63e308bac0e027a7e09fe9c5d8bfce3f7bc7e378e822a531c9a0
     name: nuhelm3-chart
     urls:
     - charts/nuhelm3-chart-4.0.0.tgz
     version: 4.0.0
-generated: "2024-11-21T09:52:05.07791787Z"
+generated: "2024-11-21T10:06:57.127603042Z"
