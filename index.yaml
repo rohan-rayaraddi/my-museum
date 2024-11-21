@@ -5,13 +5,11 @@ entries:
       challenge: nuhelm3
       internal: "true"
     apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-11-21T08:45:33.99729584Z"
-    description: A Helm chart for Kubernetes
-    digest: 72959923b9ad5f222f27dca5337a6e08372bec17d77c7546c520d0dbb82eb10d
+    created: "2024-11-21T09:52:05.078678716Z"
+    description: A simple chart for deploying a pod that curls a secret
+    digest: 7f8cc64961c5e2d3faa04ee9a4a8ec79c8e4835173699d71c93cd0ea59705c73
     name: nuhelm3-chart
-    type: application
     urls:
     - charts/nuhelm3-chart-4.0.0.tgz
     version: 4.0.0
-generated: "2024-11-21T08:45:33.995571841Z"
+generated: "2024-11-21T09:52:05.07791787Z"
